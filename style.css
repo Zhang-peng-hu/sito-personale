@@ -82,3 +82,15 @@ footer > div {
     display: flex;
     justify-content: center;
 }
+
+.inizio{
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+.contenitore{
+    width: 40%;
+    background-color: lightskyblue;
+    height: 35%;
+    margin: 30px;
+}
